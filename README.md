@@ -21,4 +21,4 @@ the player loses the game. Robot isn’t effected by tree and house objects
 
 **Imaginary Game Board**
 
-<img width="300" alt="gametable" src="C:\Users\USER\Desktop\SU_IT\Fall Term\IT524_Object-Oriented Programming with Java\HWs\imaginary_board">
+<img width="300" alt="gametable" src="https://github.com/asll8/TreasureHuntGame/blob/master/imaginary_board.png">
