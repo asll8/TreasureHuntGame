@@ -17,3 +17,4 @@ o After player moves, the robot moves to a location randomly, if the robot hits 
 the player loses the game. Robot isn’t effected by tree and house objects
 - After each turn the application informs the player if it is getting closer or far to the treasure.
 
+<img width="109" alt="gametable" src="https://raw.githubusercontent.com/yspolat/robot-treasure-hunt-game/master/imaginary_board_v2.png">
