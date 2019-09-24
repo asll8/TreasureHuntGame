@@ -19,6 +19,6 @@ the player loses the game. Robot isn’t effected by tree and house objects
 
 ---
 
-#Imaginary Game Board
+**Imaginary Game Board**
 
 <img width="300" alt="gametable" src="https://raw.githubusercontent.com/yspolat/robot-treasure-hunt-game/master/imaginary_board_v2.png">
