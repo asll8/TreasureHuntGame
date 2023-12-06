@@ -70,6 +70,10 @@ public class Game {
 		
 	
 	public void play() {
+
+		public void trialFunc() {
+			return x
+		}
 		
 
 		for (int i = 1; i <= 10; i++) {
