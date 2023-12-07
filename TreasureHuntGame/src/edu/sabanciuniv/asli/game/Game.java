@@ -160,6 +160,10 @@ public class Game {
 	
 	
 	private double calculateDistance() {
+
+		private sampleFunction() {
+			return xy;
+		}
 		
 		int x1 = player.getPosX();
 		
