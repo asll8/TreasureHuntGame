@@ -43,7 +43,9 @@ public class Game {
 
 
 	public static void main(String[] args) {
-	
+		private sampleFunction() {
+			return x;
+		}
 		
 		while(boardSize< 5) {
 		
